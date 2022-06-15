@@ -1,0 +1,6 @@
+To merge the history of the branch you are currently in with the branch_name, 
+you will need to use the command below:
+git merge branch_name
+How to create a branch in Git and switch to it immediately:
+In a single command, you can create and switch to a new branch right away.
+git checkout -b branch_name
