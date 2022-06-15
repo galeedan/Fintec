@@ -4,3 +4,4 @@ git merge branch_name
 How to create a branch in Git and switch to it immediately:
 In a single command, you can create and switch to a new branch right away.
 git checkout -b branch_name
+I am a adding a new line to the file
